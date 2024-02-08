@@ -1,3 +1,4 @@
+//shared with Mr Hansen successfully :)
 byte ledPin = 13;
 
 const byte LEDPIN = 13; //set LEDPin connected to pin 13
